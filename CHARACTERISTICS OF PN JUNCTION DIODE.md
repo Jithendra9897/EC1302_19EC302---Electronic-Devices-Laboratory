@@ -1,15 +1,10 @@
 # CHARACTERISTICS OF PN JUNCTION DIODE
 
 ## AIM: 
-
  To plot the V-I characteristics of PN junction diode. 
-
  
 ## APPARATUS REQUIRED
-
 <img width="995" height="307" alt="image" src="https://github.com/user-attachments/assets/96086095-1c79-4eb9-8497-84ac4555b927" />
-
-
 
 ## THEORY
 ## PN JUNCTION DIODE
@@ -17,10 +12,13 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
+![WhatsApp Image 2025-11-26 at 18 49 50_0c39c77d](https://github.com/user-attachments/assets/bcfd28c1-8c55-4e04-8a3f-a4be39063071)
 
 ## REVERSE BIAS:
+![WhatsApp Image 2025-11-26 at 18 51 29_9f009cc4](https://github.com/user-attachments/assets/88c6de4f-9c97-4c24-94d9-b78ed50fd4d9)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-26 at 18 53 39_d2c2439d](https://github.com/user-attachments/assets/253d753b-b361-467d-b1e5-7e7fa2ab8bf5)
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -48,12 +46,15 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-26 at 18 54 16_48f74d92](https://github.com/user-attachments/assets/161cbc8e-99e6-4631-a2d1-08de0bcb25cd)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-26 at 18 54 51_98079464](https://github.com/user-attachments/assets/a4f4a17f-75af-43ab-b4dc-71545a5055dc)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-26 at 18 57 08_794aaa60](https://github.com/user-attachments/assets/ba5d63cc-d533-4b76-9cd1-b348b9ebbcc3)
 
  ## RESULTS:
- 1. Forward resistance of PN diode     = --------------------
- 2. Reverse resistance   of PN diode   = --------------------
- 3. Cut in Voltage of PN diode         = -------------------
+ 1. Forward resistance of PN diode     = 20 ohm
+ 2. Reverse resistance   of PN diode   = 0.5 x 10^6 ohm
+ 3. Cut in Voltage of PN diode         = 0.55 V
