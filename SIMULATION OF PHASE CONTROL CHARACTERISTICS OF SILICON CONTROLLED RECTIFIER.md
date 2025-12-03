@@ -7,7 +7,7 @@ To design and simulate the phase control characteristics of SCR circuit using LT
 LT-Spice
 
 ## PROCEDURE:
-1.Double click on LT-Spice icon.
+1.Double click on LT-Spice icon. 
 
 2.New schematic window open.
 
